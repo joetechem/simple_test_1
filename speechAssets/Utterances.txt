@@ -1,0 +1,4 @@
+AMAZON.StopIntent stop
+AMAZON.StopIntent cancel
+YourFirstIntent first intent
+YourSecondIntent tell me about {yoursecondintent_slot}

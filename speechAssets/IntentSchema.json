@@ -1,0 +1,26 @@
+{
+    "intents": [
+	{
+	    "intent": "AMAZON.HelpIntent"
+	},
+
+	{
+	    "intent": "AMAZON.StopIntent"
+	},
+
+	{
+	    "intent": "YourFirstIntent"
+	},
+
+	{
+	    "slots": [
+		{
+		    "name" : "yoursecondintent_slot",
+		    "type" : "LIST_OF_THINGS"
+		}
+	    ],
+	    "intent":"YourSecondIntent"
+	}
+
+    ]
+}
